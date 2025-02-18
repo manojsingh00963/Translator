@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You'rTranslator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+        <a class=" ref-link " href="./index.html">Home</a>
+        <a class=" ref-link " href="./learnmore.html">Learn-more</a>
+    </nav>
+  </header>
+  <div class="container">
+    <h1>Your Translator</h1>
+
+    <!-- Input Section -->
+    <div class="input-section">
+      <label for="input-language">Input Language:</label>
+      <select id="input-language">
+        <option value="english">English</option>
+        <option value="hindi">Hindi</option>
+        <option value="native">Gadhwali</option>
+      </select>
+
+      <textarea id="input-text" placeholder="Enter text here..."></textarea>
+    </div>
+
+    <!-- Output Section -->
+    <div class="output-section">
+      <label for="output-language">Output Language:</label>
+      <select id="output-language">
+        <option value="hindi">Hindi</option>
+        <option value="english">English</option>
+        <option value="native">Gadhwali</option>
+      </select>
+
+      <div id="output-box">
+        <p id="output-text">Translated text will appear here...</p>
+      </div>
+    </div>
+
+    <button id="translate-btn">Translate</button>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

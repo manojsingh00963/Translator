@@ -1,0 +1,2285 @@
+source,target,native
+eat,खाना
+run,दौड़ना
+cook,पकाना
+like,पसंद करना
+speak,बोलना
+write,लिखना
+read,पढ़ना
+play,खेलना
+walk,चलना
+jump,कूदना
+see,देखना
+sleep,सोना
+drink,पीना
+learn,सीखना
+teach,पढ़ाना
+help,मदद करना
+think,सोचना
+ask,पूछना
+answer,उत्तर देना
+buy,खरीदना
+sell,बेचना
+open,खोलना
+close,बंद करना
+find,खोजना
+lose,खोना
+start,शुरू करना
+stop,रोकना
+sit,बैठना
+stand,खड़ा होना
+work,काम करना
+live,रहना
+love,प्यार करना
+hate,नफरत करना
+wait,इंतजार करना
+call,बुलाना
+show,दिखाना
+bring,लाना
+carry,ले जाना
+break,तोड़ना
+build,बनाना
+understand,समझना
+remember,याद रखना
+forget,भूलना
+enjoy,आनंद लेना
+improve,सुधार करना
+create,निर्माण करना
+believe,विश्वास करना
+decide,निर्णय लेना
+try,प्रयास करना
+win,जीतना
+lose,हारना
+show,दिखाना
+change,बदलना
+Verb (English),Meaning (Hindi)
+accept,स्वीकार करना
+achieve,प्राप्त करना
+agree,सहमत होना
+allow,अनुमति देना
+answer,उत्तर देना
+ask,पूछना
+believe,विश्वास करना
+borrow,उधार लेना
+break,तोड़ना
+bring,लाना
+build,बनाना
+buy,खरीदना
+call,बुलाना
+carry,ले जाना
+catch,पकड़ना
+change,बदलना
+choose,चुनना
+clean,साफ करना
+close,बंद करना
+come,आना
+cook,पकाना
+copy,नकल करना
+dance,नृत्य करना
+decide,निर्णय लेना
+describe,वर्णन करना
+discover,खोज करना
+do,करना
+draw,चित्र बनाना
+drink,पीना
+drive,चलाना
+eat,खाना
+enjoy,आनंद लेना
+explain,समझाना
+fall,गिरना
+feel,महसूस करना
+fight,लड़ना
+find,खोजना
+finish,समाप्त करना
+fit,फिट करना
+fly,उड़ना
+forget,भूलना
+forgive,माफ करना
+get,पाना
+give,देना
+go,जाना
+grow,बढ़ना
+happen,होना
+hate,नफरत करना
+have,पास होना
+hear,सुनना
+help,मदद करना
+hide,छिपाना
+hit,मारना
+hold,पकड़ना
+hope,आशा करना
+improve,सुधार करना
+invite,आमंत्रित करना
+jump,कूदना
+keep,रखना
+kill,मारना
+know,जानना
+learn,सीखना
+leave,छोड़ना
+lend,उधार देना
+let,अनुमति देना
+lie,झूठ बोलना
+like,पसंद करना
+listen,सुनना
+live,रहना
+look,देखना
+lose,खोना
+love,प्यार करना
+make,बनाना
+marry,शादी करना
+meet,मिलना
+move,चलाना
+need,आवश्यक होना
+open,खोलना
+organize,आयोजन करना
+pay,भुगतान करना
+play,खेलना
+prepare,तैयार करना
+promise,वादा करना
+protect,सुरक्षा करना
+provide,प्रदान करना
+pull,खींचना
+push,धक्का देना
+put,रखना
+read,पढ़ना
+realize,समझना
+receive,प्राप्त करना
+recognize,पहचानना
+remember,याद रखना
+reply,उत्तर देना
+return,वापस करना
+ride,सवारी करना
+ring,घंटी बजाना
+run,दौड़ना
+save,बचाना
+say,कहना
+see,देखना
+sell,बेचना
+send,भेजना
+show,दिखाना
+sing,गाना
+sit,बैठना
+sleep,सोना
+speak,बोलना
+spend,खर्च करना
+stand,खड़ा होना
+start,शुरू करना
+stay,रुकना
+steal,चोरी करना
+stop,रोकना
+study,पढ़ाई करना
+suggest,सुझाव देना
+swim,तैरना
+take,लेना
+talk,बात करना
+teach,पढ़ाना
+tell,बताना
+think,सोचना
+throw,फेंकना
+touch,छूना
+travel,यात्रा करना
+try,प्रयास करना
+turn,मोड़ना
+understand,समझना
+use,प्रयोग करना
+visit,भ्रमण करना
+wait,इंतजार करना
+walk,चलना
+want,चाहना
+wash,धोना
+watch,देखना
+win,जीतना
+work,काम करना
+worry,चिंता करना
+write,लिखना
+arrive,पहुंचना
+attack,आक्रमण करना
+attract,आकर्षित करना
+begin,शुरू करना
+belong,संबंधित होना
+bite,काटना
+blow,फूंकना
+burn,जलाना
+burst,फटना
+care,ध्यान रखना
+celebrate,जश्न मनाना
+climb,चढ़ना
+complain,शिकायत करना
+complete,पूरा करना
+connect,जोड़ना
+continue,जारी रखना
+control,नियंत्रण करना
+cry,रोना
+cut,काटना
+dance,नृत्य करना
+destroy,नष्ट करना
+develop,विकसित करना
+divide,विभाजित करना
+dream,सपना देखना
+drop,गिराना
+earn,कमाना
+encourage,प्रोत्साहित करना
+enter,प्रवेश करना
+escape,भागना
+establish,स्थापित करना
+exist,मौजूद होना
+feed,खिलाना
+fill,भरना
+fix,ठीक करना
+follow,अनुसरण करना
+form,रूप देना
+gain,प्राप्त करना
+gather,इकट्ठा करना
+guess,अनुमान लगाना
+handle,संबालना
+imagine,कल्पना करना
+include,शामिल करना
+increase,बढ़ाना
+introduce,परिचय देना
+join,शामिल होना
+knock,खटखटाना
+lead,नेतृत्व करना
+manage,प्रबंधन करना
+measure,मापना
+mix,मिलाना
+offer,प्रस्ताव देना
+plan,योजना बनाना
+point,इशारा करना
+prevent,रोकना
+print,छापना
+produce,उत्पादित करना
+prove,साबित करना
+raise,उठाना
+recommend,सिफारिश करना
+reduce,कम करना
+refuse,मना करना
+relax,आराम करना
+release,रिहा करना
+repair,मरम्मत करना
+search,खोजना
+select,चुनना
+shine,चमकना
+shout,चिल्लाना
+sign,हस्ताक्षर करना
+solve,हल करना
+spread,फैलाना
+store,संग्रह करना
+support,सहायता करना
+"Hello","नमस्ते","नमस्ते"
+"let's go", "चलो", "चलो हिटा" 
+"How are you?","आप कैसे हैं?","कन छा तुम ?"
+"How are you","आप कैसे हैं?","कन छा तुम"
+"What is your name?","आपका नाम क्या है?"," तुम्हार नॉउ क्या-छ?"
+"Where do you live?","आप कहाँ रहते हैं?","कख रांदा तुम ?"
+"It is a nice day","यह एक अच्छा दिन है","आज कु दिन ठिक छ"
+"I like Hindi","मुझे हिंदी पसंद है","मेखुणी गढ़वाली पसंद छ"
+"Thank you","धन्यवाद","आपुकु धन्यवाद "
+"Are you okay?","क्या आप ठीक हैं?","तुम ठीक छा?" 
+"Good morning","सुप्रभात","प्रणाम सवेरी ह्वेगि "
+"Please help me","कृपया मेरी मदद करें","मेखुणी मद्दद करि-दया जरा सि "
+"I am learning","मैं सीख रहा हूँ","मि सीखुणु छौं "
+"Where is the market?","बाजार कहाँ है?","बाजार कख-च ?"
+"This is my house","यह मेरा घर है","यु मेरु घौर च "
+"I need water","मुझे पानी चाहिए","पाणी चांदु मेखुणी  "
+"Where do you live"," कहाँ रहते है आप ","कख रांदा आप "
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+source,target
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
+Please wait here,कृपया यहाँ प्रतीक्षा करें
+The cat is sleeping,बिल्ली सो रही है
+Where is my phone?,मेरा फोन कहाँ है?
+I will call you,मैं तुम्हें कॉल करूंगा
+He is coming soon,वह जल्दी आ रहा है
+We are watching TV,हम टीवी देख रहे हैं
+The car is red,गाड़ी लाल है
+It is raining,बारिश हो रही है
+The food is ready,खाना तैयार है
+She is smiling,वह मुस्कुरा रही है
+Who are you?,तुम कौन हो?
+The sun is shining,सूरज चमक रहा है
+This is my house,यह मेरा घर है
+I am going home,मैं घर जा रहा हूँ
+He is very kind,वह बहुत दयालु है
+The room is clean,कमरा साफ है
+I can speak English,मैं अंग्रेजी बोल सकता हूँ
+She is very intelligent,वह बहुत बुद्धिमान है
+Please close the window,कृपया खिड़की बंद करें
+The train is late,ट्रेन लेट है
+Where is your brother?,तुम्हारा भाई कहाँ है?
+I need some help,मुझे कुछ मदद चाहिए
+We are going to the park,हम पार्क जा रहे हैं
+What time is it?,कितने बजे हैं?
+The flowers are beautiful,फूल सुंदर हैं
+He is reading a book,वह एक किताब पढ़ रहा है
+She likes ice cream,उसे आइसक्रीम पसंद है
+The movie was great,फिल्म शानदार थी
+I am feeling tired,मैं थका हुआ महसूस कर रहा हूँ
+Do you like coffee?,क्या आपको कॉफी पसंद है?
+We will meet tomorrow,हम कल मिलेंगे
+Where is the hospital?,अस्पताल कहाँ है?
+He is a doctor,वह एक डॉक्टर है
+The dog is barking,कुत्ता भौंक रहा है
+She is dancing,वह नाच रही है
+This is my favorite color,यह मेरा पसंदीदा रंग है
+What do you want?,तुम्हें क्या चाहिए?
+I will be there soon,मैं जल्द ही वहाँ आऊंगा
+The phone is ringing,फोन बज रहा है
+We are cooking dinner,हम रात का खाना बना रहे हैं
+She is writing a letter,वह एक पत्र लिख रही है
+The kids are playing outside,बच्चे बाहर खेल रहे हैं
+It is very cold today,आज बहुत ठंड है
+The stars are shining,तारे चमक रहे हैं
+Where is the market?,बाजार कहाँ है?
+I am watching a movie,मैं एक फिल्म देख रहा हूँ
+He is fixing the car,वह गाड़ी ठीक कर रहा है
+She is wearing a red dress,वह लाल पोशाक पहन रही है
+The book is on the table,किताब मेज पर है
+What are you doing?,तुम क्या कर रहे हो?
+I am learning to swim,मैं तैरना सीख रहा हूँ
+We are planning a trip,हम एक यात्रा की योजना बना रहे हैं
+The baby is crying,बच्चा रो रहा है
+She is very happy,वह बहुत खुश है
+He is not at home,वह घर पर नहीं है
+The lights are off,लाइट बंद हैं
+Please bring some water,कृपया थोड़ा पानी लाओ
+Where is my bag?,मेरा बैग कहाँ है?
+The clock is not working,घड़ी काम नहीं कर रही है
+She is reading a newspaper,वह अखबार पढ़ रही है
+He is my best friend,वह मेरा सबसे अच्छा दोस्त है
+We are playing cricket,हम क्रिकेट खेल रहे हैं
+It is very dark outside,बाहर बहुत अंधेरा है
+The food is spicy,खाना मसालेदार है
+She is teaching a class,वह एक क्लास पढ़ा रही है
+The car is very fast,गाड़ी बहुत तेज है
+Where are my keys?,मेरी चाबियाँ कहाँ हैं?
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+I am happy,मैं खुश हूँ
+She is running,वह दौड़ रही है
+He is sleeping,वह सो रहा है
+We are working,हम काम कर रहे हैं
+I like this book,मुझे यह किताब पसंद है
+Do you understand?,क्या आप समझ रहे हैं?
+This is delicious,यह स्वादिष्ट है
+They are playing,वे खेल रहे हैं
+Where is the school?,स्कूल कहाँ है?
+The sky is blue,आसमान नीला है
+I love you,मैं तुमसे प्यार करता हूँ
+Open the door,दरवाजा खोलो
+She is eating,वह खा रही है
+What is this?,यह क्या है?
+I want to sleep,मुझे सोना है
+I am learning,मैं सीख रहा हूँ
+Can you help me?,क्या आप मेरी मदद कर सकते हैं?
+Where is the bus stop?,बस स्टॉप कहाँ है?
+This is my friend,यह मेरा दोस्त है
+The weather is nice,मौसम अच्छा है
+I need water,मुझे पानी चाहिए
+She is singing,वह गा रही है
