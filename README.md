@@ -22,7 +22,7 @@ This project provides an API endpoint that allows you to translate text from one
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/manojsingh00963/Translator.git](https://www.google.com/search?q=https://github.com/manojsingh00963/Translator.git)
+    git clone https://github.com/manojsingh00963/Translator.git
     cd Translator
     ```
 
@@ -37,7 +37,7 @@ This project provides an API endpoint that allows you to translate text from one
 3.  **Install the dependencies:**
 
     ```bash
-    pip install tensorflow flask pandas numpy regex sentencepiece protobuf
+    pip install tensorflow flask pandas numpy regex 
     ```
 
 ## Usage
@@ -46,6 +46,11 @@ This project provides an API endpoint that allows you to translate text from one
 
     ```bash
     python app.py
+    ```
+2.  **For Model Training :**
+
+    ```bash
+    python train_mode.py
     ```
 
     The API will start running on `http://127.0.0.1:5000/`.
